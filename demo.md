@@ -1,3 +1,3 @@
 # demo!!
 
-![nyan cat](hqdefault.jpg)
+![nyan cat](nyancat.jpg)
