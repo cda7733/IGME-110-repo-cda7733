@@ -1,4 +1,4 @@
-# popular animes by different animation studios
+# popular animation studios and their works
 
 ## [MAPPA](https://myanimelist.net/anime/producer/569/MAPPA)
 - yuri!!! on ice (2016)
